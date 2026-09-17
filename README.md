@@ -1,18 +1,25 @@
 ---
-title: "Chemistry Databases and File Formats"
-date: "2025-12-09"
+Title: "Chemistry Databases and File Formats"
+Date: "2025-12-09"
+Tutorial: "Available on YouTube"
 ---
 
 <br>
 
-The Lecture video is available at ![Static Badge](https://img.shields.io/badge/youtube-tutorial-red?style=flat&logo=youtube&logoColor=red&logoSize=auto&label=YouTube&labelColor=black&color=red)
+<p align ="left">
+   <a href="https://youtu.be/vuUUPKMinOM?si=XjGPsqMLxc6mkwNc">
+   <img src="https://img.shields.io/badge/youtube-tutorial-red?style=flat&logo=youtube&logoColor=red&logoSize=auto&label=YouTube&labelColor=black&color=red">
+   </a>
+   <a href ="https://colab.research.google.com/drive/1-2rWSNOJqnaicUY3Jz3NbL8Oog94fekK?usp=sharing">
+   <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+   </a>
+
+
 
 <br>
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-2rWSNOJqnaicUY3Jz3NbL8Oog94fekK?usp=sharing)
-<br>
 # Format for Storing and Transmitting Chemical Information
-In research and education, computers and internet have been widely adopted. There is many formats, online service and software packages that can be used for learning of molecules and atoms in dynamics simulation. The basic format consists of:
+In research and education, computers and internet have been widely adopted. There is many formats, online services, and software packages that can be used for learning of molecules and atoms in dynamics simulation. The basic format consists of:
 
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13321-025-01064-7/MediaObjects/13321_2025_1064_Figa_HTML.png?as=webp)
 
