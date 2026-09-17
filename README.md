@@ -1,5 +1,16 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/dindagustiayu/ChemSpiPy-PySMILES-InChI-of-Chemistry-Database/blob/main/Chemistry-Database.html)
+---
+title: "Chemistry Databases and File Formats"
+date: "2025-12-09"
+---
 
+<br>
+
+The Lecture video is available at ![Static Badge](https://img.shields.io/badge/youtube-tutorial-red?style=flat&logo=youtube&logoColor=red&logoSize=auto&label=YouTube&labelColor=black&color=red)
+
+<br>
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-2rWSNOJqnaicUY3Jz3NbL8Oog94fekK?usp=sharing)
+<br>
 # Format for Storing and Transmitting Chemical Information
 In research and education, computers and internet have been widely adopted. There is many formats, online service and software packages that can be used for learning of molecules and atoms in dynamics simulation. The basic format consists of:
 
